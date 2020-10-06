@@ -15,14 +15,16 @@ Random Variables allows us to ask questions in mathematical way
 
 If we flip 5 coins and want to answers questions like:
 
-What is the probability of getting exactly 3 heads?
-What is the probability of getting less than 4 heads?
-What is the probability of getting more than 1 head?
+- What is the probability of getting exactly 3 heads?
+- What is the probability of getting less than 4 heads?
+- What is the probability of getting more than 1 head?
+
 Then our general way of writing would be:
 
-P(Probability of getting exactly 3 heads when we flip a coin 5 times)
-P(Probability of getting less than 4 heads when we flip a coin 5 times)
-P(Probability of getting more than 1 head when we flip a coin 5 times)
+- P(Probability of getting exactly 3 heads when we flip a coin 5 times)
+- P(Probability of getting less than 4 heads when we flip a coin 5 times)
+- P(Probability of getting more than 1 head when we flip a coin 5 times)
+
 But if we use random variables to represent above questions then we would write:
 
 - P(X=3)
@@ -67,9 +69,25 @@ Whereas, a random variable can hold a set of values.
 
 If random variable X={0,1,2,3}, then X could be 0,1,2 or 3 randomly where each of them might have a different probability of occurring.
 
+We use capital letter for random variables to avoid confusion with traditional variables.
+
 In summary,
 
 ***Random variable is function that maps a sample space(set of all possible outcomes of an experiment) to a set of discrete real values.***
+
+
+Random variables can be either discrete or continuous.
+
+If a variable can take countable number of distinct values then it’s a discrete random variable.
+
+For example: In an experiment of tossing 2 coins, we need to find out the possible number of heads.
+
+In this case, X is the random variable and the possible values taken by it is 0, 1 and 2 which is discrete.
+Therefore X= {0, 1, 2}
+
+A random variable is said to be continuous if it takes infinite number of values in an interval.
+
+For example: Suppose the temperature in a city lies between 30⁰ and 45⁰ centigrade. The temperature can take any value in the interval 30⁰ to 45⁰. So the temperature can be either 30.13⁰ or 40.15⁰ or it may be in 30.13⁰ and 40.15⁰. When we say temperature is 38⁰, it means it lies somewhere between 37.5 and 38.5. So there is nothing exact or discrete observation in continuous random variable.
 
 
 
