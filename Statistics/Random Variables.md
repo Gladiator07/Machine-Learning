@@ -30,9 +30,10 @@ P(Probability of getting less than 4 heads when we flip a coin 5 times)
 P(Probability of getting more than 1 head when we flip a coin 5 times)
 But if we use random variables to represent above questions then we would write:
 
-P(X=3)
-P(X<4)
-P(X>1)
+- P(X=3)
+- P(X<4)
+- P(X>1)
+  
 As we can see above random variables makes our task much easier to quantify results of any random process and apply math and perform further computation.
 
 Suppose we have a random process/experiment of flipping a coin. One of the two possible outcomes could be either head or a tail. Here, we use X to denote random variable, which represents the outcomes of this random process.
