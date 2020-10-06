@@ -1,8 +1,3 @@
----
-title: Random Variables
-created: '2020-10-06T13:31:44.957Z'
-modified: '2020-10-06T13:33:25.421Z'
----
 
 # Random Variables
 
