@@ -90,4 +90,7 @@ A random variable is said to be continuous if it takes infinite number of values
 For example: Suppose the temperature in a city lies between 30⁰ and 45⁰ centigrade. The temperature can take any value in the interval 30⁰ to 45⁰. So the temperature can be either 30.13⁰ or 40.15⁰ or it may be in 30.13⁰ and 40.15⁰. When we say temperature is 38⁰, it means it lies somewhere between 37.5 and 38.5. So there is nothing exact or discrete observation in continuous random variable.
 
 
+## Random Variables in Machine Learning
+
+Random variables are an invaluable tool within applications of machine learning. As a neural network makes decisions using machine learning, it creates functions for understanding possible outcomes. These possible outcomes are often defined by random variables.
 
