@@ -1,2 +1,0 @@
-# Univariate and Multivariate Analysis
-
