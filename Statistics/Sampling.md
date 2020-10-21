@@ -6,12 +6,12 @@
 - [All types of Sampling](https://towardsdatascience.com/sampling-techniques-a4e34111d808) - all types of sampling (probability + non-probability)
 
 
-# Sampling for imbalanced dataset
+## Sampling for imbalanced dataset
  ---- Yet to do------
 
 
 
-# Sub-Topics (to be kept in mind whilea learning a major topic)
+## Sub-Topics (to be kept in mind whilea learning a major topic)
 - What is Sampling?
 - Difference between population and Sampling
 - Steps involved in sampling process
