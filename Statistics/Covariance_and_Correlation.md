@@ -22,3 +22,7 @@
 - [Correlation doesn't imply causation](https://towardsdatascience.com/why-correlation-does-not-imply-causation-5b99790df07e) - nice explanation with an example
 - [Correlation and Causation](https://medium.com/analytics-vidhya/correlation-causation-977f71bb1e36)
 - [If Correlation Doesn’t Imply Causation, Then What Does?](https://medium.com/causal-data-science/if-correlation-doesnt-imply-causation-then-what-does-c74f20d26438)
+
+# Other Useful Stuff
+- [Correlation between nominal and continuous variable](https://stats.stackexchange.com/questions/119835/correlation-between-a-nominal-iv-and-a-continuous-dv-variable/124618#124618)
+- 
