@@ -30,7 +30,8 @@
 - [Part2](https://towardsdatascience.com/demystifying-maths-of-svm-part-2-30308a73e072) -  in continuation with Part-1, this explains the derivation behind the slack variable for soft margin classifier
 - [Stanford CS229 Notes](https://github.com/Gladiator07/Machine-Learning-Complete/blob/master/SVM/SVM_Stanford_Notes.pdf) - notes on course taught by Andrew Ng at Stanford (CS229) - detailed explanation
 
-
+## Kernels
+- [Polynomial Kernel](https://www.youtube.com/watch?v=Toet3EiSFcM) - StatQuest video explanation
 
 ## Practical Implementation
 - [make_moons](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.make_moons.html) - toy dataset used to test classification algorithms
